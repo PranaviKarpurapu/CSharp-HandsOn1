@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\ArraysEx\bin\Debug\ArraysEx.exe.config
+C:\Users\Dell\source\repos\ArraysEx\bin\Debug\ArraysEx.exe
+C:\Users\Dell\source\repos\ArraysEx\bin\Debug\ArraysEx.pdb
+C:\Users\Dell\source\repos\ArraysEx\obj\Debug\ArraysEx.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ArraysEx\obj\Debug\ArraysEx.exe
+C:\Users\Dell\source\repos\ArraysEx\obj\Debug\ArraysEx.pdb
